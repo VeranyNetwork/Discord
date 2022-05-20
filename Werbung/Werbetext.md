@@ -1,1 +1,1 @@
-### Der Discord-Werbetext
+# Verany.net Netzwerk
