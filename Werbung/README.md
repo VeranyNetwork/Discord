@@ -5,3 +5,5 @@ var dc = "dc.verany.net;
 console.log("Join our Discord now!");
 console.log("Link: " + dc);
 ```
+
+**Verany.net** Dein Minecraft Trainings Netzwerk!
